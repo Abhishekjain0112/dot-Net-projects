@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenableInterface", "OpenableInterface.csproj", "{48CA216F-53F4-4198-9020-778557AA3264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CA216F-53F4-4198-9020-778557AA3264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CA216F-53F4-4198-9020-778557AA3264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CA216F-53F4-4198-9020-778557AA3264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CA216F-53F4-4198-9020-778557AA3264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDC7769-44A2-4C0C-9C50-1749CF5D03BF}
+	EndGlobalSection
+EndGlobal

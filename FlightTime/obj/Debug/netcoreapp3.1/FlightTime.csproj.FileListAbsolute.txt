@@ -1,0 +1,13 @@
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.exe
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.deps.json
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.runtimeconfig.json
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.runtimeconfig.dev.json
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.dll
+D:\Dotnet\FlightTime\bin\Debug\netcoreapp3.1\FlightTime.pdb
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.csprojAssemblyReference.cache
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.AssemblyInfoInputs.cache
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.AssemblyInfo.cs
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.csproj.CoreCompileInputs.cache
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.dll
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.pdb
+D:\Dotnet\FlightTime\obj\Debug\netcoreapp3.1\FlightTime.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.exe
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.deps.json
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.runtimeconfig.json
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.runtimeconfig.dev.json
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.dll
+D:\Dotnet\OpenableInterface\bin\Debug\netcoreapp3.1\OpenableInterface.pdb
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.csprojAssemblyReference.cache
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.AssemblyInfoInputs.cache
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.AssemblyInfo.cs
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.csproj.CoreCompileInputs.cache
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.dll
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.pdb
+D:\Dotnet\OpenableInterface\obj\Debug\netcoreapp3.1\OpenableInterface.genruntimeconfig.cache

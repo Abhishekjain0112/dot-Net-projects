@@ -1,0 +1,13 @@
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.exe
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.deps.json
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.runtimeconfig.json
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.runtimeconfig.dev.json
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.dll
+D:\Dotnet\Entery\bin\Debug\netcoreapp3.1\Entery.pdb
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.csprojAssemblyReference.cache
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.AssemblyInfoInputs.cache
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.AssemblyInfo.cs
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.csproj.CoreCompileInputs.cache
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.dll
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.pdb
+D:\Dotnet\Entery\obj\Debug\netcoreapp3.1\Entery.genruntimeconfig.cache

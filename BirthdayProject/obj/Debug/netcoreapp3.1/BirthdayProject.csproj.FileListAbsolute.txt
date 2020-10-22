@@ -1,0 +1,13 @@
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.exe
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.deps.json
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.runtimeconfig.json
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.runtimeconfig.dev.json
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.dll
+D:\Dotnet\BirthdayProject\bin\Debug\netcoreapp3.1\BirthdayProject.pdb
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.csprojAssemblyReference.cache
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.AssemblyInfoInputs.cache
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.AssemblyInfo.cs
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.csproj.CoreCompileInputs.cache
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.dll
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.pdb
+D:\Dotnet\BirthdayProject\obj\Debug\netcoreapp3.1\BirthdayProject.genruntimeconfig.cache

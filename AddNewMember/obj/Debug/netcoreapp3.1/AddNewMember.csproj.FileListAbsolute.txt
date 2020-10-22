@@ -1,0 +1,13 @@
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.exe
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.deps.json
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.runtimeconfig.json
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.runtimeconfig.dev.json
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.dll
+D:\Dotnet\AddNewMember\bin\Debug\netcoreapp3.1\AddNewMember.pdb
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.csprojAssemblyReference.cache
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.AssemblyInfoInputs.cache
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.AssemblyInfo.cs
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.csproj.CoreCompileInputs.cache
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.dll
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.pdb
+D:\Dotnet\AddNewMember\obj\Debug\netcoreapp3.1\AddNewMember.genruntimeconfig.cache

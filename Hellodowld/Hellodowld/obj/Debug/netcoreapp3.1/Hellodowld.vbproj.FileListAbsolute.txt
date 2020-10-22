@@ -1,0 +1,13 @@
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.exe
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.deps.json
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.runtimeconfig.json
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.runtimeconfig.dev.json
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.dll
+D:\Dotnet\Hellodowld\Hellodowld\bin\Debug\netcoreapp3.1\Hellodowld.pdb
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.vbprojAssemblyReference.cache
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.AssemblyInfoInputs.cache
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.AssemblyInfo.vb
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.vbproj.CoreCompileInputs.cache
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.dll
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.pdb
+D:\Dotnet\Hellodowld\Hellodowld\obj\Debug\netcoreapp3.1\Hellodowld.genruntimeconfig.cache
